@@ -1,0 +1,9 @@
+{
+    "id": "crc",
+    "type": "package",
+    "value": {
+        "author": "Michael Barr",
+        "description": "CRC utility functions",
+        "managed": false
+    }
+}
